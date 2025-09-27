@@ -1,13 +1,11 @@
 import json
 from fastmcp import FastMCP
 
-# Cargar archivo JSON
 with open("db.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 productos = data.get("productos", [])
 
-# Crear servidor MCP
 mcp = FastMCP("JSON Productos MCP Server")
 
 @mcp.tool
