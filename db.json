@@ -1,0 +1,70 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Laptop Dell XPS 13 55",
+      "categoria": "Computadoras",
+      "valor": 1250
+    },
+    {
+      "id": "2",
+      "nombre": "iPhone 15 Pro",
+      "categoria": "Smartphones",
+      "valor": 1350
+    },
+    {
+      "id": "3",
+      "nombre": "Samsung Galaxy Tab S9",
+      "categoria": "Tablets",
+      "valor": 950
+    },
+    {
+      "id": "4",
+      "nombre": "Monitor LG UltraWide 34”",
+      "categoria": "Monitores",
+      "valor": 600
+    },
+    {
+      "id": "5",
+      "nombre": "Teclado Mecánico Logitech G Pro",
+      "categoria": "Accesorios",
+      "valor": 180
+    },
+    {
+      "id": "6",
+      "nombre": "Auriculares Sony WH-1000XM5",
+      "categoria": "Audio",
+      "valor": 400
+    },
+    {
+      "id": "7",
+      "nombre": "Reloj Inteligente Apple Watch 9",
+      "categoria": "Wearables",
+      "valor": 520
+    },
+    {
+      "id": "8",
+      "nombre": "Impresora HP LaserJet Pro",
+      "categoria": "Impresoras",
+      "valor": 280
+    },
+    {
+      "id": "9",
+      "nombre": "Router WiFi 6 TP-Link AX6000",
+      "categoria": "Redes",
+      "valor": 320
+    },
+    {
+      "id": "10",
+      "nombre": "Cámara Canon EOS R7",
+      "categoria": "Cámaras",
+      "valor": 1500
+    },
+    {
+      "id": "9d77",
+      "nombre": "Prod1",
+      "categoria": "Cta1",
+      "valor": 125
+    }
+  ]
+}
